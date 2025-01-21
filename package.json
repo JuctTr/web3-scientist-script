@@ -1,0 +1,28 @@
+{
+  "name": "web3-scientist-script",
+  "version": "1.0.0",
+  "description": "## 开发环境搭建",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuctTr/web3-scientist-script.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuctTr/web3-scientist-script/issues"
+  },
+  "homepage": "https://github.com/JuctTr/web3-scientist-script#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5"
+  }
+}
